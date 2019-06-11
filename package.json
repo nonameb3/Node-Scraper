@@ -1,0 +1,14 @@
+{
+  "name": "node-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "waraphon",
+  "license": "MIT",
+  "dependencies": {
+    "website-scraper": "^4.0.1"
+  }
+}
